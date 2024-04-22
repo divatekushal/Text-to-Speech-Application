@@ -2,7 +2,8 @@
 
 The Text-to-Speech Application is a Python GUI application that allows users to input text and convert it into speech. It provides various customization options for adjusting speech parameters such as rate, pitch, and volume, as well as options for selecting different languages and voices.
 
-![Text-to-Speech Application](output text-to-speech.png)
+![Text-to-Speech Application](path/to/your/image.png)
+
 
 ## Features
 
